@@ -1,7 +1,7 @@
 # DataManagmentForTheWeb
 Designing new startup, create its business plan and its prototype 
 iCare
-![logo](./image.png =250x250)
+![logo](./image.png | width=100)
 
 
 Mockup of :
