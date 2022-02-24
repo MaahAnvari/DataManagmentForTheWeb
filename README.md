@@ -2,6 +2,7 @@
 Designing new startup, create its business plan and its prototype 
 iCare
 ![logo](./image.png | width=100)
+<img src="./image.png" width="100" height="100">
 
 
 Mockup of :
