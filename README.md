@@ -1,7 +1,8 @@
 # DataManagmentForTheWeb
 Designing new startup, create its business plan and its prototype 
-------------------
+
 iCare
+
 <img src="./image.png" width="100" height="100">
 
 ------------------
